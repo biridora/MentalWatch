@@ -1,4 +1,4 @@
-# MentalWatch
+# MentalWatch(ver.1)
  Emotion recording device(情動記録装置)
 
 - システム構成図
